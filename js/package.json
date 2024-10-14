@@ -1,0 +1,16 @@
+{
+  "name": "alura-geek",
+  "version": "1.0.0",
+  "description": "Proyecto de AluraGeek para gestionar productos",
+  "main": "main.js",
+  "scripts": {
+    "start": "node-server --watch db.json --port 3000",
+    "server": "json-server --watch db.json --port 3000"
+  },
+  "keywords": [],
+  "author": "Nicolás Muñoz Bacián",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

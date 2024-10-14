@@ -1,0 +1,53 @@
+{
+  "products": [
+    { 
+      "id": 1,
+      "name": "Leche Soprole",
+      "descripcion": "Nueva leche Soprole 100% natural y ecológica",
+      "url": "http://127.0.0.1:5500/assets/Leche%20soprole%20Nuevo%20envase.jpg",
+      "imagen": "./assets/Leche soprole Nuevo envase.jpg",
+      "price": 1250
+    },
+    { 
+      "id": 2,
+      "name": "Mermelada de Mango",
+      "descripcion": "Mermelada de Mango",
+      "url": "http://127.0.0.1:5500/assets/Tentaciones%20de%20Pica%20(Mockup%201)%20PNG.png",
+      "imagen": "./assets/Tentaciones de Pica (Mockup 1) PNG.png",
+      "price": 2500
+    },
+    { 
+      "id": 3,
+      "name": "Zapatos de bebe",
+      "descripcion": "Zapatos de bebe impresos en 3D para Pastel de Cumpleaños",
+      "url": "http://127.0.0.1:5500/assets/Zapatitos%20en%20impresi%C3%B3n%203D%20(2).jpeg",
+      "imagen": "./assets/Zapatitos en impresión 3D (2).jpeg",
+      "price": 5000
+    }, 
+    { 
+      "id": 4,
+      "name":"Envoltura Mermelada de Mango",
+      "descripcion":"Envoltura reciclable de mermalada de mango de Pica",
+      "url":"http://127.0.0.1:5500/assets/Tentaciones%20de%20Pica%20(Mockup%202)%20PNG.png",
+      "imagen":"./assets/Tentaciones de Pica (Mockup 2) PNG.png",
+      "price": 2.000
+    } ,
+    { 
+      "id": 5,
+      "name":"Logo de IDEXP impreso en 3D",
+      "descripcion":"Logo de IDEXP impreso en 3D bajo el agua",
+      "url":"http://127.0.0.1:5500/assets/Logo%20idex%20en%203D%20(Bajo%20el%20agua)%20(2).jpeg",
+      "imagen":"./assets/Logo idex en 3D (Bajo el agua) (2).jpeg",
+      "price": 10.000
+    } ,
+    { 
+      "id": 6,
+      "name":"Logo de IDEXP impreso en 3D",
+      "descripcion":"Logo de IDEXP impreso en 3D bajo el agua",
+      "url":"http://127.0.0.1:5500/assets/Logo%20idex%20en%203D%20(Bajo%20el%20agua)%20(2).jpeg",
+      "imagen":"./assets/Logo idex en 3D (Bajo el agua) (2).jpeg",
+      "price": 10.000
+    } 
+  ]
+}
+  
